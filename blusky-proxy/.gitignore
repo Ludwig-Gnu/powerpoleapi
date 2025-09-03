@@ -1,4 +1,41 @@
+# --- Node / runtime ---
 node_modules/
-.env
+npm-debug.log*
+yarn*.log
+pnpm-debug.log*
+logs/
+*.log
+*.log.*
+
+# --- Builds / caches ---
 dist/
 build/
+.cache/
+.tmp/
+coverage/
+.nyc_output/
+lib-cov/
+
+# --- Secrets & environnements ---
+.env
+.env.*
+!.env.example
+sessions.json
+
+# Clés/crypto locales (ne JAMAIS committer la clé privée)
+oauth-private-*.pem
+oauth-private-*.key
+*.pkcs8
+*.key
+
+# --- OS / éditeurs ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# --- Divers ---
+tmp/
+pids/
