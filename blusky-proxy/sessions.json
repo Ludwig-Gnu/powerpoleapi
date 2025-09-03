@@ -1,9 +1,0 @@
-{
-  "did:plc:2tl2qrja3porrwinezhdtpgc": {
-    "handle": "powerpolestudio.bsky.social",
-    "accessJwt": "eyJ0eXAiOiJhdCtqd3QiLCJhbGciOiJFUzI1NksifQ.eyJzY29wZSI6ImNvbS5hdHByb3RvLmFjY2VzcyIsInN1YiI6ImRpZDpwbGM6MnRsMnFyamEzcG9ycndpbmV6aGR0cGdjIiwiaWF0IjoxNzU2ODUzNjYwLCJleHAiOjE3NTY4NjA4NjAsImF1ZCI6ImRpZDp3ZWI6ZW50b2xvbWEudXMtd2VzdC5ob3N0LmJza3kubmV0d29yayJ9.7V59TTdpKFO63yyS8WfwkKgT0VzpWVNRsIYcgdlZ_v_BX_M8PeXN88yOXoVp_RnqSdr6YWR2VH9YulX_8wujGQ",
-    "refreshJwt": "eyJ0eXAiOiJyZWZyZXNoK2p3dCIsImFsZyI6IkVTMjU2SyJ9.eyJzY29wZSI6ImNvbS5hdHByb3RvLnJlZnJlc2giLCJzdWIiOiJkaWQ6cGxjOjJ0bDJxcmphM3BvcnJ3aW5lemhkdHBnYyIsImF1ZCI6ImRpZDp3ZWI6YnNreS5zb2NpYWwiLCJqdGkiOiJjMnd4KzR4SFNTWnNSck80QlR3RTdrSWUvdktnRUJST2VNK1E0ZlhaaUtZIiwiaWF0IjoxNzU2ODUzNjYwLCJleHAiOjE3NjQ2Mjk2NjB9.jUfByho8Xqs0qSfSXmquQF3dpfgDows_jRRRQMuafsNf3wb7AULiD64r6qePrOTVJU7rnPI0v1HTuoTZv4bbug",
-    "createdAt": "2025-09-02T22:54:21.150Z",
-    "updatedAt": "2025-09-02T22:54:21.150Z"
-  }
-}
