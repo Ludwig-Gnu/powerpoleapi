@@ -1,0 +1,15 @@
+# /etc/systemd/system/powerpoleapi.service
+[Unit]
+Description=PowerPole API
+After=network.target
+
+[Service]
+WorkingDirectory=/srv/powerpoleapi/bluesky-proxy
+EnvironmentFile=/srv/powerpoleapi/bluesky-proxy/etc/.env
+ExecStart=/usr/bin/node server.js
+User=www-data
+Group=www-data
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
